@@ -1,0 +1,13 @@
+#Wrapper
+{
+    border: 3px solid #fff;
+    padding: 20px;
+}
+
+.float-left
+{
+    float:left;
+    width:39.5%;
+    padding: 20px;
+    border: 2px solid red;
+}
